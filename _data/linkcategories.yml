@@ -13,6 +13,8 @@
         targetUrl: 'https://piazza.com/class'
       - primaryText: Autolab
         targetUrl: 'https://autolab.andrew.cmu.edu/'
+      - primaryText: Canvas
+        targetUrl: 'https://canvas.cmu.edu/'
 - title: Productivity
   links:
       - primaryText: Email
