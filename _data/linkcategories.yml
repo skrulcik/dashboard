@@ -9,6 +9,9 @@
       - primaryText: Security
         secondaryText: '15-487'
         targetUrl: 'https://users.ece.cmu.edu/~vsekar/Teaching/Fall17/18487-f17//lectures/'
+      - primaryText: CS Pedagogy
+        secondaryText: '15-539'
+        targetUrl: 'http://www.cs.cmu.edu/~539/f17/schedule.html'
       - primaryText: Piazza
         targetUrl: 'https://piazza.com/class'
       - primaryText: Autolab
