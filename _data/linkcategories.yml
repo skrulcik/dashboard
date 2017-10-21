@@ -1,8 +1,5 @@
 - title: Classes
   links:
-      - primaryText: Computational Geometry
-        secondaryText: '15-456'
-        targetUrl: 'http://www.cs.cmu.edu/afs/cs/academic/class/15456-f17/schedule.html'
       - primaryText: Machine Learning
         secondaryText: '10-601'
         targetUrl: 'https://www.cs.cmu.edu/~roni/10601/'
