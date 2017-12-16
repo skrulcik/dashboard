@@ -1,20 +1,13 @@
-- title: Classes
+- title: Reading
   links:
-      - primaryText: Machine Learning
-        secondaryText: '10-601'
-        targetUrl: 'https://www.cs.cmu.edu/~roni/10601/'
-      - primaryText: Security
-        secondaryText: '15-487'
-        targetUrl: 'https://users.ece.cmu.edu/~vsekar/Teaching/Fall17/18487-f17//lectures/'
-      - primaryText: CS Pedagogy
-        secondaryText: '15-539'
-        targetUrl: 'http://www.cs.cmu.edu/~539/f17/schedule.html'
-      - primaryText: Piazza
-        targetUrl: 'https://piazza.com/class'
-      - primaryText: Autolab
-        targetUrl: 'https://autolab.andrew.cmu.edu/'
-      - primaryText: Canvas
-        targetUrl: 'https://canvas.cmu.edu/'
+      - primaryText: News
+        secondaryText: Reddit
+        targetUrl: 'https://reddit.com/r/full_news+qualitynews+worldnews+security'
+      - primaryText: Audiobooks
+        secondaryText: OverDrive
+        targetUrl: 'https://acla.overdrive.com/account/loans'
+      - primaryText: Wait But Why
+        targetUrl: 'https://waitbutwhy.com/'
 - title: Productivity
   links:
       - primaryText: Email
@@ -28,16 +21,6 @@
         targetUrl: 'https://todoist.com/app?lang=en#agenda%2Foverdue%2C%207%20days'
       - primaryText: Messenger
         targetUrl: 'https://messenger.com/'
-- title: Reading
-  links:
-      - primaryText: News
-        secondaryText: Reddit
-        targetUrl: 'https://reddit.com/r/full_news+qualitynews+worldnews+security'
-      - primaryText: Audiobooks
-        secondaryText: OverDrive
-        targetUrl: 'https://acla.overdrive.com/account/loans'
-      - primaryText: Wait But Why
-        targetUrl: 'https://waitbutwhy.com/'
 - title: CMU Apps
   links:
       - primaryText: CMU Email
